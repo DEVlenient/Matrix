@@ -10,7 +10,7 @@
 
 ## 範例演示
 
-<img src="pic/screenshot.gif" alt="示例圖片" width="600">
+<img src="pic/screenshot.gif" width="600">
 
 ## 如何使用
 
